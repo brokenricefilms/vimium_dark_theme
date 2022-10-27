@@ -1,4 +1,4 @@
-# Vimium Dark Theme (no longer support, i moving to surfingkeys)
+# Vimium Dark Theme
 
 ## Look like this
 
